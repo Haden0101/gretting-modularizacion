@@ -1,3 +1,3 @@
-module github.com/Haden0101/greetings
+module github.com/Haden0101/gretting-modularizacion
 
-go 1.25.3
+go 1.24.5
